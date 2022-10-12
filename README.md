@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Para mais informações sobre mim ou outros meios de comunicação, segue minhas redes sociais abaixo😊
  
 <div> 
   <a href="https://www.linkedin.com/in/maria-eduarda-silva-souza-b3b988231" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
