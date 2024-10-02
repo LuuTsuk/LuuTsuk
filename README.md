@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do LuuTsuk 😁
+## Bem-vindo(a) ao perfil LuuTsuk 😁
 
  <div align="center">
    <a href="https://github.com/LuuTsuk">
