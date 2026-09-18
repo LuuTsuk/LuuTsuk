@@ -1,11 +1,11 @@
 <h1 align="center">Olá! Eu sou a Lua 👋</h1>
 
 <p align="center">
-  Estudante de <strong>Sistemas para Internet</strong> e apaixonada por tecnologia e desenvolvimento web.
+  Estudante de <strong>Sistemas para Internet</strong> e em desenvolvimento na área de Front-end.
 </p>
 
 <p align="center">
-  Atualmente estou desenvolvendo minhas habilidades em <strong>Front-end</strong>, criando projetos para praticar e consolidar meus conhecimentos.
+  Atualmente estudo <strong>HTML, CSS e JavaScript</strong> e utilizo projetos práticos para consolidar meus conhecimentos e construir meu portfólio.
 </p>
 
 ---
@@ -15,8 +15,9 @@
 - 🎓 Estudante de **Sistemas para Internet**
 - 💻 Focada em **Desenvolvimento Front-end**
 - 🌱 Atualmente estudando **HTML, CSS e JavaScript**
-- 📚 Aprendendo também sobre **Git, GitHub, lógica de programação e desenvolvimento web**
-- 🚀 Desenvolvendo projetos para construir meu portfólio e evoluir na programação
+- 📚 Também aprendendo **Git, GitHub, lógica de programação e desenvolvimento web**
+- 🚀 Construindo meu portfólio através de projetos práticos
+- 🌙 Responsável pela **TecnoLua**, projeto voltado para tecnologia, organização, estudos e produtos digitais
 - 📍 Recife, Pernambuco — Brasil
 
 ---
@@ -43,9 +44,21 @@
 
 ## 🚀 Projetos em destaque
 
-### 🧠 Jogo da Memória
+### 🌐 Site Pessoal
 
-Projeto desenvolvido para praticar conceitos de **HTML, CSS e JavaScript**, criando uma experiência interativa através de um jogo da memória.
+Meu projeto mais recente, desenvolvido como resultado final do projeto **BRClick — Criando Sites Profissionais**.
+
+O site reúne informações sobre minha trajetória, estudos, projetos, hobbies e formas de contato, além de aplicar conceitos de HTML, CSS, JavaScript e responsividade.
+
+💻 [Ver repositório](https://github.com/LuuTsuk/site-pessoal)
+
+---
+
+### 🧠 Jogo da Memória — Kenzie
+
+Projeto desenvolvido durante o evento **Programar para Evoluir**, promovido pela Kenzie.
+
+Durante o projeto, pratiquei conceitos de **HTML, CSS e JavaScript** através da criação de um jogo da memória interativo.
 
 🔗 [Acessar projeto](https://luutsuk.github.io/jogo-da-memoria-kenzie/)  
 💻 [Ver código](https://github.com/LuuTsuk/jogo-da-memoria-kenzie)
@@ -54,30 +67,40 @@ Projeto desenvolvido para praticar conceitos de **HTML, CSS e JavaScript**, cria
 
 ### 🌙 Fases da Lua
 
-Projeto desenvolvido utilizando **JavaScript**, criado durante meus estudos para praticar lógica de programação e desenvolvimento web.
+Jogo da memória desenvolvido durante meus estudos de JavaScript.
+
+O projeto foi utilizado para praticar lógica de programação, manipulação do DOM e interações com JavaScript, além de receber uma personalização visual com o tema **Fases da Lua**.
 
 🔗 [Acessar projeto](https://luutsuk.github.io/Fases-da-Lua/)  
 💻 [Ver código](https://github.com/LuuTsuk/Fases-da-Lua)
 
 ---
 
-### 🥁 Drum Kit
+### 👩‍💻 Mini Portfólio — MapaDev Week
 
-Projeto interativo desenvolvido para praticar **JavaScript, manipulação do DOM e eventos**.
+Projeto desenvolvido durante a **MapaDev Week**, promovida pelo **Dev em Dobro**.
 
-💻 [Ver código](https://github.com/LuuTsuk/mini-projeto-DrumKit)
+O projeto foi utilizado para praticar HTML, CSS e JavaScript através da criação de um mini portfólio com informações pessoais e redes sociais.
 
----
-
-### 🖼️ Slideshow
-
-Mini projeto desenvolvido durante meus estudos de JavaScript para praticar interatividade e manipulação de elementos da página.
-
-💻 [Ver código](https://github.com/LuuTsuk/mini-projeto-Slideshow)
+🔗 [Acessar projeto](https://luutsuk.github.io/mini-portfolio-MapaDevWeek/)  
+💻 [Ver código](https://github.com/LuuTsuk/mini-portfolio-MapaDevWeek)
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Outros projetos de estudo
+
+Também desenvolvi pequenos projetos para praticar conceitos específicos de JavaScript, como:
+
+- 🥁 **Drum Kit**
+- 🖼️ **Slideshow**
+- 💳 **Explorer Lab #01**
+- 💻 Outros exercícios de desenvolvimento web
+
+Esses projetos fazem parte do meu processo de aprendizado e registram diferentes etapas da minha evolução na programação.
+
+---
+
+## 📖 Atualmente estudando
 
 - HTML5
 - CSS3
@@ -85,7 +108,14 @@ Mini projeto desenvolvido durante meus estudos de JavaScript para praticar inter
 - Git e GitHub
 - Lógica de Programação
 - Desenvolvimento Front-end
-- Fundamentos de desenvolvimento web
+- Responsividade
+- Manipulação do DOM
+
+---
+
+## 🎯 Objetivo
+
+Quero continuar desenvolvendo minhas habilidades em Front-end, criar projetos cada vez mais completos e buscar oportunidades onde eu possa aplicar e ampliar meus conhecimentos em tecnologia.
 
 ---
 
