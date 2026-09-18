@@ -1,31 +1,122 @@
-## Bem-vindo(a) ao perfil LuuTsuk 😁
+<h1 align="center">Olá! Eu sou a Lua 👋</h1>
 
- <div align="center">
-   <a href="https://github.com/LuuTsuk">
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuuTsuk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuuTsuk&layout=compact&langs_count=6&theme=radical"/>
+<p align="center">
+  Estudante de <strong>Sistemas para Internet</strong> e apaixonada por tecnologia e desenvolvimento web.
+</p>
+
+<p align="center">
+  Atualmente estou desenvolvendo minhas habilidades em <strong>Front-end</strong>, criando projetos para praticar e consolidar meus conhecimentos.
+</p>
+
+---
+
+## 👩‍💻 Sobre mim
+
+- 🎓 Estudante de **Sistemas para Internet**
+- 💻 Focada em **Desenvolvimento Front-end**
+- 🌱 Atualmente estudando **HTML, CSS e JavaScript**
+- 📚 Aprendendo também sobre **Git, GitHub, lógica de programação e desenvolvimento web**
+- 🚀 Desenvolvendo projetos para construir meu portfólio e evoluir na programação
+- 📍 Recife, Pernambuco — Brasil
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+<div align="left">
+
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+
+  <img align="center" alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+
+  <img align="center" alt="VS Code" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+
 </div>
 
-<div style="display: inline_block"><br>
-<h3>Estudando:</h3>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="right" alt="Luu" height="200" width="200" src="https://media.discordapp.net/attachments/1276026325055963147/1291132954994544641/sr23f0ff9d14dd1.gif?ex=66fefcc4&is=66fdab44&hm=3a4efdde05bb01b4379a60d17f5f9a9b592f1e5c2a4174088c06674329eaffe7&=&width=674&height=674">
-</div>
- 
- <br>
- 
-  ### Para mais informações, segue minhas redes sociais abaixo😊
- 
-<div> 
-  <a href="https://www.linkedin.com/in/maria-eduarda-silva-souza-b3b988231" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/luu._sz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:msilvasouza2604@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
- <div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuuTsuk}/count.svg" /></p> 
-<br></div>
+---
+
+## 🚀 Projetos em destaque
+
+### 🧠 Jogo da Memória
+
+Projeto desenvolvido para praticar conceitos de **HTML, CSS e JavaScript**, criando uma experiência interativa através de um jogo da memória.
+
+🔗 [Acessar projeto](https://luutsuk.github.io/jogo-da-memoria-kenzie/)  
+💻 [Ver código](https://github.com/LuuTsuk/jogo-da-memoria-kenzie)
+
+---
+
+### 🌙 Fases da Lua
+
+Projeto desenvolvido utilizando **JavaScript**, criado durante meus estudos para praticar lógica de programação e desenvolvimento web.
+
+🔗 [Acessar projeto](https://luutsuk.github.io/Fases-da-Lua/)  
+💻 [Ver código](https://github.com/LuuTsuk/Fases-da-Lua)
+
+---
+
+### 🥁 Drum Kit
+
+Projeto interativo desenvolvido para praticar **JavaScript, manipulação do DOM e eventos**.
+
+💻 [Ver código](https://github.com/LuuTsuk/mini-projeto-DrumKit)
+
+---
+
+### 🖼️ Slideshow
+
+Mini projeto desenvolvido durante meus estudos de JavaScript para praticar interatividade e manipulação de elementos da página.
+
+💻 [Ver código](https://github.com/LuuTsuk/mini-projeto-Slideshow)
+
+---
+
+## 📚 Atualmente estudando
+
+- HTML5
+- CSS3
+- JavaScript
+- Git e GitHub
+- Lógica de Programação
+- Desenvolvimento Front-end
+- Fundamentos de desenvolvimento web
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuuTsuk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuuTsuk&layout=compact&langs_count=8&theme=radical"/>
 
 </div>
+
+---
+
+## 📫 Entre em contato
+
+<div>
+
+  <a href="https://www.linkedin.com/in/maria-eduarda-silva-souza-b3b988231" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:msilvasouza2604@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+</div>
+
+---
+
+<p align="center">
+  ✨ Sempre aprendendo, praticando e transformando conhecimento em projetos.
+</p>
