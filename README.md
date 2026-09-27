@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou a Lua 👋</h1>
+<h1 align="center">Olá! Eu sou a Maria Eduarda, mas pode me chamar de Lua 👋</h1>
 
 <p align="center">
   Estudante de <strong>Sistemas para Internet</strong> e em desenvolvimento na área de Front-end.
